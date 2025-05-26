@@ -1,16 +1,19 @@
-## Hi there 👋
+# Wallan Peixoto 👨‍💻
 
-<!--
-**WallanDavid/WallanDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou desenvolvedor Full Stack apaixonado por resolver problemas com código limpo e soluções eficientes.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias
+- **Linguagens:** Java | Python | JavaScript | C#
+- **Cloud:** Azure | AWS
+- **DevOps:** GitHub Actions, CI/CD
+- **Testes:** QA Manual e Automatizado (Postman, Cypress)
+- **Banco de dados:** SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projetos em destaque
+- Controle de Gastos FullStack
+- QA E2E com Cypress
+- Portfólio pessoal em HTML
+
+📫 [LinkedIn](https://www.linkedin.com/in/wallan-david-895100137/)
+
+> "Código bom é aquele que você entende até depois de um café forte." ☕
