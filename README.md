@@ -14,6 +14,6 @@ Olá! Sou desenvolvedor Full Stack apaixonado por resolver problemas com código
 - QA E2E com Cypress
 - Portfólio pessoal em HTML
 
-📫 [LinkedIn](https://www.linkedin.com/in/wallan-david-895100137/)
+📫 [LinkedIn](https://www.linkedin.com/in/wallan-p-895100137/)
 
 > "Código bom é aquele que você entende até depois de um café forte." ☕
